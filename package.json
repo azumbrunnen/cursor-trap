@@ -1,0 +1,23 @@
+{
+  "name": "cursor-trap",
+  "version": "1.0.0",
+  "description": "Delegate input events to an external textarea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azumbrunnen/cursor-trap.git"
+  },
+  "keywords": [
+    "event",
+    "delegation"
+  ],
+  "author": "Adrian Zumbrunnen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azumbrunnen/cursor-trap/issues"
+  },
+  "homepage": "https://github.com/azumbrunnen/cursor-trap"
+}
