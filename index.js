@@ -16,6 +16,7 @@ var CursorTrap = function(){
     this.saveScrollPosition();
     this.textarea.addEventListener( 'blur', this.destroy.bind( this ) );
     this.textarea.focus();
+    this.restoreScrollPosition();
     return this;
 };
 
